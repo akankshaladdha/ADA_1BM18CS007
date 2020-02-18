@@ -49,5 +49,5 @@ Sorted array is:
 1714636915
 1804289383
 1957747793
-Time required for sorting is:   1micros
+Time required for sorting is:   1 micros
 */
